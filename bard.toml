@@ -1,0 +1,23 @@
+songs = [
+    "*.md"
+]
+
+notation = "roman"
+
+[[output]]
+file = "songbook.tex"
+template = "pdf.hbs"
+en_font = "DejaVu Sans"
+chs_font = "KaiTi"
+process = "latexmk -xelatex {{file}}"
+
+[[output]]
+file = "songbook.html"
+template = "html.hbs"
+
+[book]
+title = "Shawn Wang's Songbook"
+subtitle = "pengxiang-wang.github.io"
+chorus_label = "Ch"
+front_img = "front_img.jpg"
+title_note = "声明：这是我个人的 Songbook，包含我感兴趣歌曲的和弦进行及分析、歌词及解析、在不同乐器（吉他、手风琴）上的实现。详情见个人网站此文章：https://pengxiang-wang.github.io/my_songbook_project"

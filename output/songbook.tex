@@ -1,0 +1,238 @@
+
+
+
+
+\documentclass[12pt,a5paper,openany,UTF8]{memoir}
+\setheadfoot{0pt}{0pt}
+\setlrmarginsandblock{2cm}{2cm}{*}
+\setulmarginsandblock{.75cm}{1cm}{*}
+\checkandfixthelayout
+\raggedbottom
+
+\usepackage{fontspec}
+\usepackage{ctex}
+\usepackage{titlesec}
+\usepackage{xcolor}
+\usepackage{enumitem}
+\usepackage[defaultlines=5,all]{nowidow}
+\usepackage[pdfusetitle,colorlinks=true]{hyperref}
+\usepackage{float}
+\usepackage{graphicx}
+\usepackage{wrapfig}
+
+%% Page style
+\makepagestyle{songs}
+\makeoddfoot{songs}{}{}{\thepage}
+\makeevenfoot{songs}{\thepage}{}{}
+% Patch cleardoublepage to not get blank pages after title & contents pages:
+\renewcommand\cleardoublepage{\clearpage}
+% Suppress page numbers in the toc/frontmatter:
+\aliaspagestyle{chapter}{empty}
+
+%% Fonts
+\setmainfont[Ligatures=TeX]{DejaVu Sans}
+\setCJKmainfont[Ligatures=TeX]{KaiTi}
+
+%% Spacings
+\setlength{\parindent}{0pt}
+\setlength{\tabcolsep}{0pt}
+\setlength{\parskip}{1mm}
+
+%% ToC style
+% Hide the title of the ToC:
+\renewcommand\tocheadstart{}
+\renewcommand\printtoctitle[1]{}
+\renewcommand\aftertoctitle{}
+% Hide section numbers in the ToC:
+\renewcommand\numberline[1]{}
+\renewcommand\cftdotsep{1}
+
+%% Hyperlinks setup
+\hypersetup{
+  bookmarks=true,
+  linkcolor=.,
+  urlcolor=blue,
+  pdfcreator=bard v. 1.3.0 - https://github.com/vojtechkral/bard,
+}
+
+%% Song title and subtitle formats
+\titleformat{\section}
+  {\centering\large\bfseries}{}{0pt}{\underline}
+\titlespacing*{\section}
+  {0pt}{7mm}{0pt}
+\newcommand\songtitle[1]{%
+  % This is a trick to only layout a song on the current page
+  % if it fits, otherwise a pagebreak is inserted
+  \FloatBlock
+  \vfil
+  \pagebreak[2]
+  \vfilneg
+  \section{#1}
+}
+\newcommand\subtitle[1]{%
+  \emph{#1}
+}
+
+%% Verse layout command
+\makeatletter
+% The verse & label layout code was written by Jonathan P. Spratte
+% under the Beerware license: As long as you retain this notice you
+% can do whatever you want with this stuff. If we meet some day, and you think
+% this stuff is worth it, you can buy me a beer in return. Jonathan P. Spratte
+\newlength\verse@indent
+\newlength\verse@labelsep
+\newlength\verse@vskip
+\AtBeginDocument{% setting AtBeginDocument since earlier we can't rely on em being correct
+  \verse@indent=12mm
+  \verse@labelsep=2mm
+  \verse@vskip=\smallskipamount
+}
+\newcommand\Verse[1]{%
+    \par
+    \vskip\verse@vskip
+    \noindent\kern-\verse@indent
+    \sbox0{\textbf{\footnotesize{#1}}}%
+    \ifdim\wd0>\dimexpr\verse@indent-\verse@labelsep\relax
+      \usebox0\kern\verse@labelsep
+    \else
+      \makebox[\verse@indent][l]{\usebox0}%
+    \fi
+    \ignorespaces
+}
+\makeatother
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+% Metadata
+\title{Shawn Wang's Songbook}
+
+% Document
+\begin{document}
+
+%% Title page
+\frontmatter*
+\begin{titlingpage*}
+  \begin{vplace}[0.5]
+    \begin{center}
+      \Huge{\textbf{Shawn Wang's Songbook}} \\
+      \vspace{0.5cm}
+      \LARGE{pengxiang-wang.github.io} \\
+        \vspace{1cm}
+        \includegraphics[width=70.55555555555554mm]{front\_img.jpg}
+      
+    \end{center}
+  \end{vplace}
+
+  \mbox{}
+  \vfill
+  \begin{center}\small{声明：这是我个人的 Songbook，包含我感兴趣歌曲的和弦进行及分析、歌词及解析、在不同乐器（吉他、手风琴）上的实现。详情见个人网站此文章：https://pengxiang-wang.github.io/my\_songbook\_project}\end{center}
+\end{titlingpage*}
+
+%% Contents page
+\tableofcontents*
+
+%% Songs
+\mainmatter*
+
+\pagestyle{songs}
+
+  %% song 0
+  \songtitle{Artist | Title}
+
+  \begin{center}
+      \subtitle{Album | Year}
+    \end{center}
+  
+  
+
+  
+  \Verse{1.} \begin{tabular}[b]{l}
+    \textbf{\textcolor{red}{Am}}\\Yippie~yea~\mbox{}\end{tabular}\begin{tabular}[b]{l}
+    \textbf{\textcolor{red}{C}}\\oh!\mbox{}\end{tabular}\\
+Yippie~yea~\begin{tabular}[b]{l}
+    \textbf{\textcolor{red}{Am}}\\yay!\mbox{}\end{tabular}
+
+    \vspace{\parskip}
+
+  
+\Verse{2.} \begin{tabular}[b]{l}
+    \textbf{\textcolor{red}{Am}}\\Yippie~yea~\mbox{}\end{tabular}\begin{tabular}[b]{l}
+    \textbf{\textcolor{red}{C}}\\oh!\mbox{}\end{tabular}\\
+Yippie~yea~\begin{tabular}[b]{l}
+    \textbf{\textcolor{red}{Am}}\\yay!\mbox{}\end{tabular}
+
+    \vspace{\parskip}
+
+  
+\Verse{Ch1.} Chorus~1
+
+    \vspace{\parskip}
+
+  
+\Verse{3.} \begin{tabular}[b]{l}
+    \textbf{\textcolor{red}{Am}}\\Yippie~yea~\mbox{}\end{tabular}\begin{tabular}[b]{l}
+    \textbf{\textcolor{red}{C}}\\oh!\mbox{}\end{tabular}\\
+Yippie~yea~\begin{tabular}[b]{l}
+    \textbf{\textcolor{red}{Am}}\\yay!\mbox{}\end{tabular}
+
+    \vspace{\parskip}
+
+   \emph{Ch1.}
+
+    \vspace{\parskip}
+
+  
+\Verse{Ch2.} Chorus~2
+
+    \vspace{\parskip}
+
+  
+\Verse{Bridge} bridge
+
+    \vspace{\parskip}
+
+     
+
+    \vspace{\parskip}
+
+  
+
+
+
+
+
+
+
+\backmatter
+\pagestyle{empty}
+
+
+
+\end{document}
