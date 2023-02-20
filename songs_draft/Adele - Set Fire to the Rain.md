@@ -1,12 +1,6 @@
 # Artist | Title
 ## Album | Year
 
-Key: X to X
-
-!+X
-!!nashville
-
-
 1. `Am`Yippie yea `C`oh!
 Yippie yea `Am`yay!
 
@@ -30,15 +24,12 @@ bridge
 &nbsp;&nbsp;
 
 ### Chord Progression
+Am C G Dm
+
+### About Lyrics
 
 
 ### On Guitar
 
 
 ### On Accordion
-
-
-### About Song
-
-
-### About Lyrics

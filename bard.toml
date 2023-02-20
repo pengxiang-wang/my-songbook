@@ -2,7 +2,7 @@ songs = [
     "*.md"
 ]
 
-notation = "roman"
+notation = "english"
 
 [[output]]
 file = "songbook.tex"

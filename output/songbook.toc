@@ -1,1 +1,6 @@
-\contentsline {section}{\numberline {0.1}Artist | Title}{3}{section.0.1}%
+\contentsline {section}{\numberline {0.1}Adele | Chasing Pavements}{3}{section.0.1}%
+\contentsline {section}{\numberline {0.2}Kris Kristofferson | Me and Bobby McGee}{6}{section.0.2}%
+\contentsline {section}{\numberline {0.3}Merle Haggard, Willie Nelson | Pancho and Lefty}{8}{section.0.3}%
+\contentsline {section}{\numberline {0.4}Paul McCartney | Beatiful Night}{10}{section.0.4}%
+\contentsline {section}{\numberline {0.5}五月天 | 拥抱}{12}{section.0.5}%
+\contentsline {section}{\numberline {0.6}赵雷 | 我记得}{14}{section.0.6}%
