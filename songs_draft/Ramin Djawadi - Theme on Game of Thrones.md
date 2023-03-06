@@ -1,23 +1,22 @@
-# Artist | Title
+# Ramin Djawadi | Theme on Game of Thrones
 ## Album | Year
 
-1. `Am`Yippie yea `C`oh!
-Yippie yea `Am`yay!
+### Key
+Eb
+&nbsp;
 
-2. `Am`Yippie yea `C`oh!
-Yippie yea `Am`yay!
+!+3
+!!english
 
-> Chorus 1
 
-3. `Am`Yippie yea `C`oh!
-Yippie yea `Am`yay!
 
-!>
 
->> Chorus 2
+曲式：intro - verse - chorus
+- 和弦进行
+    - intro：`Am - A`
+    - verse：`Am - Em - G - Dm / Am`
+    - chorus：`F - C - Dm - Am, F - Dm - Em - Am`
 
-### Bridge
-bridge
 
 
 

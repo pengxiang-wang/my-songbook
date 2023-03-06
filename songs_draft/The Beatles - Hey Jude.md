@@ -1,5 +1,14 @@
-# Artist | Title
+# The Beatles | Hey Jude
 ## Album | Year
+
+
+### Key
+X to X
+&nbsp;
+
+!+X
+!!english
+
 
 1. `Am`Yippie yea `C`oh!
 Yippie yea `Am`yay!
@@ -26,10 +35,14 @@ bridge
 ### Chord Progression
 
 
-### About Lyrics
-
-
 ### On Guitar
 
 
 ### On Accordion
+
+
+
+### About Song
+
+### About Lyrics
+

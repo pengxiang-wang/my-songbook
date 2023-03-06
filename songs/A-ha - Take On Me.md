@@ -2,10 +2,10 @@
 ## Hunting High and Low | 1985
 
 ### Key
-X to X
+A
 &nbsp;
 
-!+X
+!-3
 !!english
 
 ### Intro

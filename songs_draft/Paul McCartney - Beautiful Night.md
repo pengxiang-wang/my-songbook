@@ -1,11 +1,12 @@
 # Paul McCartney | Beatiful Night
 ## Flaming Pie | 1997
 
-⭐⭐⭐⭐⭐
-Key: A to G
+### Key
+A to G
+&nbsp;
 
 !-3
-!!nashville
+!!english
 
 1. Someone's gone out fishing, someone's high and dry
    Someone's on a mission, to the lonely Lorelei

@@ -1,36 +1,18 @@
-# Artist | Title
+# Green Day | Boulevard of Broken Dreams
 ## Album | Year
 
-Key: X to X
+### Key
+X to X
+&nbsp;
 
 !+X
-!!nashville
-
-
-1. `Am`Yippie yea `C`oh!
-Yippie yea `Am`yay!
-
-2. `Am`Yippie yea `C`oh!
-Yippie yea `Am`yay!
-
-> Chorus 1
-
-3. `Am`Yippie yea `C`oh!
-Yippie yea `Am`yay!
-
-!>
-
->> Chorus 2
-
-### Bridge
-bridge
-
+!!english
 
 
 &nbsp;&nbsp;
 
 ### Chord Progression
-
+五度圈 6152
 
 ### On Guitar
 

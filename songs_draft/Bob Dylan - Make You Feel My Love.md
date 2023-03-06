@@ -1,23 +1,16 @@
 # Artist | Title
 ## Album | Year
 
-1. `Am`Yippie yea `C`oh!
-Yippie yea `Am`yay!
+### Key
+X to X
+&nbsp;
 
-2. `Am`Yippie yea `C`oh!
-Yippie yea `Am`yay!
+!+X
+!!english
 
-> Chorus 1
 
-3. `Am`Yippie yea `C`oh!
-Yippie yea `Am`yay!
 
-!>
 
->> Chorus 2
-
-### Bridge
-bridge
 
 
 
@@ -26,10 +19,13 @@ bridge
 ### Chord Progression
 
 
-### About Lyrics
-
-
 ### On Guitar
 
 
 ### On Accordion
+
+### About Song
+
+### About Lyrics
+
+

@@ -1,10 +1,12 @@
-# Artist | Title
+# Lynyrd Skynyrd | Tuesday's Gone
 ## Album | Year
 
-Key: X to X
+### Key
+X to X
+&nbsp;
 
 !+X
-!!nashville
+!!english
 
 
 1. `Am`Yippie yea `C`oh!

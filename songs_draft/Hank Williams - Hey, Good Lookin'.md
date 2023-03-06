@@ -1,29 +1,15 @@
 # Artist | Title
 ## Album | Year
 
-Key: X to X
+### Key
+X to X
+&nbsp;
 
 !+X
-!!nashville
+!!english
 
 
-1. `Am`Yippie yea `C`oh!
-Yippie yea `Am`yay!
 
-2. `Am`Yippie yea `C`oh!
-Yippie yea `Am`yay!
-
-> Chorus 1
-
-3. `Am`Yippie yea `C`oh!
-Yippie yea `Am`yay!
-
-!>
-
->> Chorus 2
-
-### Bridge
-bridge
 
 
 
