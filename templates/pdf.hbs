@@ -36,8 +36,8 @@
 \aliaspagestyle{chapter}{empty}
 
 %% Fonts
-\setmainfont[Ligatures=TeX]{ {{~ default output.font "DejaVu Sans" ~}} }
-\setCJKmainfont[Ligatures=TeX]{ {{~ default output.font "SimSun" ~}} }
+\setmainfont[Ligatures=TeX]{ {{~ default output.en_font "DejaVu Sans" ~}} }
+\setCJKmainfont[Ligatures=TeX]{ {{~ default output.chs_font "SimSun" ~}} }
 
 %% Spacings
 \setlength{\parindent}{0pt}
@@ -148,8 +148,8 @@
 {{~/inline~}}
 {{#*inline "i-chord"~}}
   \begin{tabular}[b]{l}
-    {{> chord-style}}{\textcolor{red}{ {{{~ (pre chord) ~}}} }}\\
-    {{~#if alt_chord}}{{> chord-style}}{\textcolor{blue}{ {{{~ (pre alt_chord) ~}}} }}\\
+    {{> chord-style}}{\textcolor{red}{ {{{~ (pre chord) ~}}} \ }}\\
+    {{~#if alt_chord}}{{> chord-style}}{\textcolor{blue}{ {{{~ (pre alt_chord) ~}}} \ }}\\
     {{/if~}}
     {{~#each inlines}}{{> (lookup this "type") }}{{/each~}}\mbox{}\end{tabular}
 {{~/inline}}

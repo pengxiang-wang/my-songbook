@@ -1,13 +1,16 @@
 # Adele | Chasing Pavements
 ## 19 | 2008
 
-Key: Eb to Ab
+### Key
+Eb to Ab
+&nbsp;
+
 
 !+3
-!!nashville
+!!english
 
 ### Intro
-`Am`        `Em7/G`
+`Am`...        `Em7/G`...
 
 1. I've `Am7`made up my mind
  Don't `Em/G`need to think it over
@@ -15,7 +18,7 @@ Key: Eb to Ab
  Don't `E7`need to look no further
  this ain't `Dm/F`lust, I `G7`know this is `C`lo`Am7`ve, `Em`but
 
-2. If `C`I tell the world, I'll `Em/B`never say enough, 'cause it was `Am`not said to you
+1. If `C`I tell the world, I'll `Em/B`never say enough, 'cause it was `Am`not said to you
 And that's `E7`exactly what I need to do, if `Fmaj7`I end `Em/G`up `G7`with you
 
 > `Fmaj9`Should I give up,`Em` or `Am7`should I `Dm7`just keep chasing `Dm7/F`pavements, `F9`even if it `Em`leads no`E7`where?
@@ -27,6 +30,7 @@ And that's `E7`exactly what I need to do, if `Fmaj7`I end `Em/G`up `G7`with you
 And `Em/G`fly around in circles, waiting `Dm/F`as my heart drops
 And my `E7`back begins to tingle
 Final`F`ly, could `Em/G`this be `G7`it, or
+
 !>
 
 ### Br.
@@ -35,6 +39,7 @@ Or would it `F9`be a waste? Even if I `E7`knew my place, should I `D7b9`leave it
 Or should I `F9`just keep on`Em`,`Am7` chasing`Dm7` pavements`F`?
 Should I `Em7`just keep on`Am7`, chasing`Dm7` pavements`F`?
 `F7`Oh-`G7`oh...
+
 !>
 
 

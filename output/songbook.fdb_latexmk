@@ -1,11 +1,11 @@
 # Fdb version 4
-["xdvipdfmx"] 1676903483 "songbook.xdv" "songbook.pdf" "songbook" 1676903486 0
-  "songbook.xdv" 1676903482 164308 9f45dbc86909accedecd91a5d9fbffa6 "xelatex"
+["xdvipdfmx"] 1678095685 "songbook.xdv" "songbook.pdf" "songbook" 1678095686 0
+  "songbook.xdv" 1678095684 309308 1430b4dfe16111c0454e5195b4f1a8be "xelatex"
   (generated)
   "songbook.pdf"
   (rewritten before read)
-["xelatex"] 1676903476 "D:/Projects/my-songbook/output/songbook.tex" "songbook.xdv" "songbook" 1676903486 0
-  "D:/Projects/my-songbook/output/songbook.tex" 1676903458 40349 3238408748667deeedfca04b03d204be ""
+["xelatex"] 1678095680 "D:/Projects/my-songbook/output/songbook.tex" "songbook.xdv" "songbook" 1678095686 0
+  "D:/Projects/my-songbook/output/songbook.tex" 1678095673 103063 377ecc1a9e06a3a712ceb6faf83a2492 ""
   "c:/Program Files/texlive/2022/texmf-dist/fonts/map/fontname/texfonts.map" 1676602572 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "c:/Program Files/texlive/2022/texmf-dist/fonts/tfm/adobe/zapfding/pzdr.tfm" 1676605401 1528 7e12f4c0fcf5a072cebdcfbfc610f54c ""
   "c:/Program Files/texlive/2022/texmf-dist/fonts/tfm/public/cm/cmmi12.tfm" 1676601889 1524 4414a8315f39513458b80dfc63bff03a ""
@@ -102,11 +102,11 @@
   "c:/Program Files/texlive/2022/texmf-var/web2c/xetex/xelatex.fmt" 1676605760 10497277 a2f5c18db3a572da80c813f359926d94 ""
   "c:/Program Files/texlive/2022/texmf.cnf" 1676605430 713 e69b156964470283e0530f5060668171 ""
   "c:/Windows/Fonts/msyh.ttc" 1575709707 19647736 ff2e53a6131130a07589812ea5b5b0d0 ""
-  "d:/Projects/my-songbook/output/songbook.tex" 1676903458 40349 3238408748667deeedfca04b03d204be ""
+  "d:/Projects/my-songbook/output/songbook.tex" 1678095673 103063 377ecc1a9e06a3a712ceb6faf83a2492 ""
   "front_img.jpg" 1676618585 41596 1624987c9080e25eab5e821444c70045 ""
-  "songbook.aux" 1676903482 1405 c9351bf0dcffbde75ec43a86a0824bd2 "xelatex"
-  "songbook.out" 1676903482 1162 4805a2f27323b34fa2b4bdb065f58313 "xelatex"
-  "songbook.toc" 1676903482 541 9515919f8636206cae0032c54ef946ef "xelatex"
+  "songbook.aux" 1678095684 2713 d725c8c47ad8d78a0a264c8768adce6b "xelatex"
+  "songbook.out" 1678095684 2978 4ee44038bf337d80780c3444611cc67e "xelatex"
+  "songbook.toc" 1678095684 1480 38162e370ba98a8fdf6349b3cd692106 "xelatex"
   (generated)
   "songbook.aux"
   "songbook.log"

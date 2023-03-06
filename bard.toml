@@ -7,8 +7,8 @@ notation = "english"
 [[output]]
 file = "songbook.tex"
 template = "pdf.hbs"
-en_font = "DejaVu Sans"
-chs_font = "KaiTi"
+en_font = "Verdana"
+chs_font = "SimHei"
 process = "latexmk -xelatex {{file}}"
 
 [[output]]
