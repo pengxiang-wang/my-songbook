@@ -9,16 +9,21 @@ C# (Bb minor), Bb
 !!nashville
 
 ### Intro
+`E` `Am` `E` `Am`
 
-1. Just a perfect day, drink Sangria in the park
-   And then later, when it gets dark, we go home
+1. `Am`Just a `D`perfect day, `G`drink Sangria in the park
+   `F`And then later, `Dm`when it gets dark, we go `E`home
 
 2. Just a perfect day, feed animals in the zoo
    Then later a movie too, and then home
 
-> Oh, it's such a perfect day, I'm glad I spent it with you
-> Oh, such a perfect day, you just keep me hanging on
-> You just keep me hanging on
+!-2
+
+> `C`Oh, it's such a `F`perfect day, I'm `Em`glad I spent it with `F`you `F/E` `F/D` 
+> `C`Oh, such a `G`perfect day, you just `Am`keep me `G`hanging `F`on
+> You just `Am`keep me `G`hanging `F`on
+
+!+1
 
 3. Just a perfect day, problems all left alone
    Weekenders on our own, it's such fun
@@ -26,12 +31,21 @@ C# (Bb minor), Bb
 4. Just a perfect day, you made me forget myself
    I thought I was someone else, someone good
 
+!-2
+
 !>
 
 ### Instrumental
 
+`Am` `G` `F`
+`Am` `G` `F`
+`Am` `G` `F`
+
+
+
+
 ### Outro
-You're going to reap just what you sow * 4
+`Em`You're going to `Bb`reap just what you sow`F`. `F` `F/E` `F/D` `C` （重复 4 遍）
 
 
 
