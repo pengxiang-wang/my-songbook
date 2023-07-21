@@ -18,7 +18,7 @@ Eb to Ab
  Don't `E7`need to look no further
  this ain't `Dm/F`lust, I `G7`know this is `C`lo`Am7`ve, `Em`but
 
-1. If `C`I tell the world, I'll `Em/B`never say enough, 'cause it was `Am`not said to you
+2. If `C`I tell the world, I'll `Em/B`never say enough, 'cause it was `Am`not said to you
 And that's `E7`exactly what I need to do, if `Fmaj7`I end `Em/G`up `G7`with you
 
 > `Fmaj9`Should I give up,`Em` or `Am7`should I `Dm7`just keep chasing `Dm7/F`pavements, `F9`even if it `Em`leads no`E7`where?

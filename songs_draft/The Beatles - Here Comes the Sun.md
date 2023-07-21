@@ -15,7 +15,7 @@ X to X
 &nbsp;&nbsp;
 
 ### Chord Progression
-
+ 1526
 
 ### On Guitar
 
