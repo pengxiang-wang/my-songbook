@@ -11,10 +11,10 @@ C# (Bb minor), Bb
 ### Intro
 `E` `Am` `E` `Am`
 
-1. `Am`Just a `D`perfect day, `G`drink Sangria in the park
+1. `Am`Just a `D`perfect day, `G`drink Sangria `D7/A`in the park`C/G`
    `F`And then later, `Dm`when it gets dark, we go `E`home
 
-2. Just a perfect day, feed animals in the zoo
+2. Just a perfect day, feed animals `C`in the zoo`C/G`
    Then later a movie too, and then home
 
 !-2
